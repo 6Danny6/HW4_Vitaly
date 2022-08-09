@@ -1,0 +1,32 @@
+body{
+    font-family: "Comic Sans MS";
+}
+
+h1{
+    color: darkgoldenrod;
+    background-color:darkblue;
+}
+
+#royal-design {
+  background-image: url("HWImages/HW4dark_green.jpg");
+}
+
+h2{
+    color: darksalmon;
+}
+
+li{
+    color: darksalmon;
+}
+
+h3{
+    color: darkorange;
+    font-family: "Segoe Script";
+}
+
+u{
+    color: darksalmon;
+}
+h4{
+    color: darksalmon;
+}
